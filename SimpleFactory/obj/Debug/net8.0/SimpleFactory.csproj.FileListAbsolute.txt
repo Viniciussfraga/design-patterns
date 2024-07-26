@@ -1,0 +1,15 @@
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.exe
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.deps.json
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.runtimeconfig.json
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.dll
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\bin\Debug\net8.0\SimpleFactory.pdb
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfoInputs.cache
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.AssemblyInfo.cs
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.csproj.CoreCompileInputs.cache
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.sourcelink.json
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.dll
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\refint\SimpleFactory.dll
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.pdb
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\SimpleFactory.genruntimeconfig.cache
+D:\Estudos\Design Patterns\design-patterns\SimpleFactory\obj\Debug\net8.0\ref\SimpleFactory.dll
