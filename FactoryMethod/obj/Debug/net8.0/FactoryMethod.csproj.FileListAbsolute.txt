@@ -1,0 +1,15 @@
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.sourcelink.json
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+D:\Estudos\Design Patterns\design-patterns\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
