@@ -13,3 +13,18 @@ D:\Estudos\Design Patterns\design-patterns\AbstractFactory\obj\Debug\net8.0\refi
 D:\Estudos\Design Patterns\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
 D:\Estudos\Design Patterns\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
 D:\Estudos\Design Patterns\design-patterns\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

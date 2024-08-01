@@ -1,30 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ViniciusdosSantosFra\\Documents\\Estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj": {}
+    "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ViniciusdosSantosFra\\Documents\\Estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj": {
+    "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ViniciusdosSantosFra\\Documents\\Estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj",
+        "projectUniqueName": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj",
         "projectName": "SimpleFactory",
-        "projectPath": "C:\\Users\\ViniciusdosSantosFra\\Documents\\Estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj",
-        "packagesPath": "C:\\Users\\ViniciusdosSantosFra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ViniciusdosSantosFra\\Documents\\Estudos\\design-patterns\\SimpleFactory\\obj\\",
+        "projectPath": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SimpleFactory\\SimpleFactory.csproj",
+        "packagesPath": "C:\\Users\\Unknown\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SimpleFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ViniciusdosSantosFra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Unknown\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Finx/9ab3ea6a-fe9e-48f9-8ad2-84ed1715d1c5/_packaging/FinxFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
