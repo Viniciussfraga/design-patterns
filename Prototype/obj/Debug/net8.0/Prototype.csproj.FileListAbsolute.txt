@@ -1,0 +1,15 @@
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\bin\Debug\net8.0\Prototype.exe
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\bin\Debug\net8.0\Prototype.deps.json
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\bin\Debug\net8.0\Prototype.dll
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\bin\Debug\net8.0\Prototype.pdb
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.sourcelink.json
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.dll
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.pdb
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+c:\Users\Unknown\Documents\estudos\design-patterns\Prototype\obj\Debug\net8.0\ref\Prototype.dll
