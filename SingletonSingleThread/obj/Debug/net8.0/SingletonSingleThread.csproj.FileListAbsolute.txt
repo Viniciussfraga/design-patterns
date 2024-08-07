@@ -1,0 +1,15 @@
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\bin\Debug\net8.0\SingletonSingleThread.exe
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\bin\Debug\net8.0\SingletonSingleThread.deps.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\bin\Debug\net8.0\SingletonSingleThread.runtimeconfig.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\bin\Debug\net8.0\SingletonSingleThread.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\bin\Debug\net8.0\SingletonSingleThread.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.AssemblyInfoInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.AssemblyInfo.cs
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.sourcelink.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\refint\SingletonSingleThread.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\SingletonSingleThread.genruntimeconfig.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonSingleThread\obj\Debug\net8.0\ref\SingletonSingleThread.dll
