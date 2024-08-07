@@ -1,0 +1,15 @@
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\bin\Debug\net8.0\SingletonThreadSafety.exe
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\bin\Debug\net8.0\SingletonThreadSafety.deps.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\bin\Debug\net8.0\SingletonThreadSafety.runtimeconfig.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\bin\Debug\net8.0\SingletonThreadSafety.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\bin\Debug\net8.0\SingletonThreadSafety.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.AssemblyInfoInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.AssemblyInfo.cs
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.sourcelink.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\refint\SingletonThreadSafety.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\SingletonThreadSafety.genruntimeconfig.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonThreadSafety\obj\Debug\net8.0\ref\SingletonThreadSafety.dll
