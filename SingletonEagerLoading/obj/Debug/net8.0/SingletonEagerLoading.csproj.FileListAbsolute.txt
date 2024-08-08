@@ -1,0 +1,15 @@
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\bin\Debug\net8.0\SingletonEagerLoading.exe
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\bin\Debug\net8.0\SingletonEagerLoading.deps.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\bin\Debug\net8.0\SingletonEagerLoading.runtimeconfig.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\bin\Debug\net8.0\SingletonEagerLoading.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\bin\Debug\net8.0\SingletonEagerLoading.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.AssemblyInfoInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.AssemblyInfo.cs
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.sourcelink.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\refint\SingletonEagerLoading.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\SingletonEagerLoading.genruntimeconfig.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonEagerLoading\obj\Debug\net8.0\ref\SingletonEagerLoading.dll

@@ -1,0 +1,15 @@
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\bin\Debug\net8.0\SingletonLazyLoading.exe
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\bin\Debug\net8.0\SingletonLazyLoading.deps.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\bin\Debug\net8.0\SingletonLazyLoading.runtimeconfig.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\bin\Debug\net8.0\SingletonLazyLoading.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\bin\Debug\net8.0\SingletonLazyLoading.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.AssemblyInfoInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.AssemblyInfo.cs
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.sourcelink.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\refint\SingletonLazyLoading.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\SingletonLazyLoading.genruntimeconfig.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonLazyLoading\obj\Debug\net8.0\ref\SingletonLazyLoading.dll

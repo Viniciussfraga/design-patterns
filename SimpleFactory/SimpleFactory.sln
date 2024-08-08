@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonThreadSafety", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonStatic", "..\SingletonStatic\SingletonStatic.csproj", "{030C791B-8AFE-42E6-AD3F-233A40DA68BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonEagerLoading", "..\SingletonEagerLoading\SingletonEagerLoading.csproj", "{59331B34-F567-4E22-AAF7-3E795328111E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonLazyLoading", "..\SingletonLazyLoading\SingletonLazyLoading.csproj", "{A37785CC-58E6-46B4-BDF2-C2509F6A95EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{030C791B-8AFE-42E6-AD3F-233A40DA68BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{030C791B-8AFE-42E6-AD3F-233A40DA68BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{030C791B-8AFE-42E6-AD3F-233A40DA68BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59331B34-F567-4E22-AAF7-3E795328111E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59331B34-F567-4E22-AAF7-3E795328111E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59331B34-F567-4E22-AAF7-3E795328111E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59331B34-F567-4E22-AAF7-3E795328111E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37785CC-58E6-46B4-BDF2-C2509F6A95EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37785CC-58E6-46B4-BDF2-C2509F6A95EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37785CC-58E6-46B4-BDF2-C2509F6A95EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37785CC-58E6-46B4-BDF2-C2509F6A95EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
