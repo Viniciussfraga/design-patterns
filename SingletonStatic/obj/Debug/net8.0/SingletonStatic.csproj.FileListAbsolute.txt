@@ -1,0 +1,15 @@
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\bin\Debug\net8.0\SingletonStatic.exe
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\bin\Debug\net8.0\SingletonStatic.deps.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\bin\Debug\net8.0\SingletonStatic.runtimeconfig.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\bin\Debug\net8.0\SingletonStatic.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\bin\Debug\net8.0\SingletonStatic.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.AssemblyInfoInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.AssemblyInfo.cs
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.sourcelink.json
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\refint\SingletonStatic.dll
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.pdb
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\SingletonStatic.genruntimeconfig.cache
+C:\Users\Unknown\Documents\estudos\design-patterns\SingletonStatic\obj\Debug\net8.0\ref\SingletonStatic.dll

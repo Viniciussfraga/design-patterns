@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\Prototype\\Prototype.csproj": {}
+    "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SingletonStatic\\SingletonStatic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\Prototype\\Prototype.csproj": {
+    "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SingletonStatic\\SingletonStatic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\Prototype\\Prototype.csproj",
-        "projectName": "Prototype",
-        "projectPath": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\Prototype\\Prototype.csproj",
+        "projectUniqueName": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SingletonStatic\\SingletonStatic.csproj",
+        "projectName": "SingletonStatic",
+        "projectPath": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SingletonStatic\\SingletonStatic.csproj",
         "packagesPath": "C:\\Users\\Unknown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\Prototype\\obj\\",
+        "outputPath": "C:\\Users\\Unknown\\Documents\\estudos\\design-patterns\\SingletonStatic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unknown\\AppData\\Roaming\\NuGet\\NuGet.Config"
